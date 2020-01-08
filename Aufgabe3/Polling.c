@@ -1,10 +1,3 @@
-/*
- * Aufgabe3Polling.c
- *
- * Created: 12.11.2019 13:44:34
- * Author : woutv
- */ 
-
 #include <avr/io.h>
 #define F_CPU 1000000UL
 #include <util/delay.h>
