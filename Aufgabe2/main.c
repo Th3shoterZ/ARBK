@@ -1,10 +1,3 @@
-/*
- * Aufgabe2.c
- *
- * Created: 29.10.2019 15:12:07
- * Author : woutv
- */ 
-
 #include <avr/io.h>
 #define F_CPU 1000000UL  
 #include <util/delay.h>
