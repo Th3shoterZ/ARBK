@@ -1,10 +1,3 @@
-/*
- * Aufgabe3.c
- *
- * Created: 12.11.2019 12:29:55
- * Author : woutv
- */ 
-
 #include <avr/io.h>
 #define F_CPU 1000000UL
 #include <avr/interrupt.h>
