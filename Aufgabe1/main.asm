@@ -1,10 +1,3 @@
-;
-; Praktikum1.asm
-;
-; Created: 15.10.2019 15:06:30
-; Author : woutv
-;
-
 .include "m8def.inc"	; Prozessordefinitionen laden
 
 .org 0x000		; Reset Vector
